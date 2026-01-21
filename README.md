@@ -24,12 +24,3 @@ It helps users organize their daily tasks by allowing them to add, delete, and m
 
 ---
 
-## 📂 Project Structure
-todo-list/
-│
-├── index.html # Main HTML file
-├── style.css # Custom CSS styles
-├── script.js # JavaScript logic
-├── README.md # Project documentation
-
-
